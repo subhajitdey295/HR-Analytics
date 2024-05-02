@@ -9,3 +9,4 @@ Insights:
 ✅ According to the job roles Laboratory Technician, Sales Executive & Research Assistant have a high attrition rate.
 ✅ The people working in the company between(0-5 Years) have high attrition rate.
 ✅ Also the employees getting salary up to 5,000 have high attrition.
+
