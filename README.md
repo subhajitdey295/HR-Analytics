@@ -1,4 +1,5 @@
 # HR_Analytics_Dashboard_Using_PowerBI
+![HR Analytics Dashboard](https://github.com/subhajitdey295/PowerBI_HR_Analytics/assets/73297451/c6c1e04b-e8a0-42bd-aee8-1766cd1f84b3)
 
 Objective:
 HR wants to create a dashboard to track and analyze their attrition rate based on their education field, age, etc.
